@@ -1,5 +1,5 @@
 # CV
 
-For a link to the CV, please click [here (PDF)](https://james-alvey-42.github.io/assets/pdf/cv.pdf).
+For a link to the CV, click on the image.
 
-![cvimg](james-alvey-cv.png)
+[![cvimg](james-alvey-cv.png)](https://james-alvey-42.github.io/assets/pdf/cv.pdf).
